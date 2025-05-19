@@ -9,7 +9,7 @@ Comprehensive AI Security Testing Framework developed by JEXO | PAKISTANI HACKER
 2. Extract the ZIP file to your local machine:
 
    
-Or use any archive extraction tool on Windows
+Or use any archive extraction tool on Windows , Linux.
 
 3. Set up the environment:
 4. Follow the detailed instructions in How-to-use.md
